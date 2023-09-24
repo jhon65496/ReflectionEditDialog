@@ -1,13 +1,13 @@
 ﻿using System.Collections.ObjectModel;
 using System.Windows.Input;
 
-using EmploiesWpfApp1.Data;
-using EmploiesWpfApp1.Infrastructure.Commands;
-using EmploiesWpfApp1.Infrastructure.Services.Interfaces;
-using EmploiesWpfApp1.Models;
-using EmploiesWpfApp1.ViewModels.Base;
+using EmploiesSimpleWpfApp.Data;
+using EmploiesSimpleWpfApp.Infrastructure.Commands;
+using EmploiesSimpleWpfApp.Infrastructure.Services.Interfaces;
+using EmploiesSimpleWpfApp.Models;
+using EmploiesSimpleWpfApp.ViewModels.Base;
 
-namespace EmploiesWpfApp1.ViewModels
+namespace EmploiesSimpleWpfApp.ViewModels
 {
     internal class MainWindowViewModel : ViewModel
     {
